@@ -1,2 +1,7 @@
-# Form_DOM
-vamos a aprender a capturar el valor de los formularios.  con js
+# Ejercicios DOM: Submit events
+
+En el archivo HTML que encontrarás en este respositorio hay escritos 5 ejercicios para practicar los `click events`. Junto al HTML hay un archivo CSS y otro JS, que deberás usar también para poder completar los ejercicios, y que ya contienen algo de código previo para ayudarte.  
+
+1. Clona el repositorio en tu ordenador.
+2. Lanza el HTML en el navegador para poder ver los ejercicios.
+3. usa los archivos JS y CSS que vienen con el repositorio (y que ya están enlazados al HTML) para escribir tu código y completar los ejercicios.
